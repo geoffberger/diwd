@@ -1,0 +1,5 @@
+name = Diwd
+description = An example layout used for Do It With Drupal in NYC!
+regions[col1] = Column 1
+regions[col2] = Column 2
+regions[col3] = Column 3
